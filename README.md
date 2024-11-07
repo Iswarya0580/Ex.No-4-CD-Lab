@@ -3,7 +3,7 @@ RECOGNITION OF A VALID VARIABLE WHICH STARTS WITH A LETTER FOLLOWED BY ANY NUMBE
 
 ### Name:Iswarya P
 ### Register no:212223230082
-### Date:24-10-2024
+### Date:03-10-2024
 
 ## Aim:
 To write a YACC program to recognize a valid variable which starts with a letter followed by any number of letters or digits.
